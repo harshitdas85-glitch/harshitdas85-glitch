@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshitdas85-glitch/harshitdas85-glitch/main/file (2).png" width="4000" height="2000">
+  <img src="https://raw.githubusercontent.com/harshitdas85-glitch/harshitdas85-glitch/main/techmap.png" width="5000" >
 </div>
 
 ---
